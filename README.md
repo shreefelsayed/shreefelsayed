@@ -5,17 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/shreef_hollywoo" target="blank"><img src="https://img.shields.io/twitter/follow/shreef_hollywoo?logo=twitter&style=for-the-badge" alt="shreef_hollywoo" /></a> </p>
 
-- 🔭 I’m currently working on [Light Area](https://play.google.com/store/apps/details?id=com.armjld.lightareamanager)
+- 🔭 I’m currently working on [Vondera](https://vondera.app/)
 
-- 🌱 I’m currently learning **Kotlin**
+- 👨‍💻 All of my projects are available at [https://armjld.vercel.app/](https://armjld.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=5506789097361980112](https://play.google.com/store/apps/dev?id=5506789097361980112)
-
-- 💬 Ask me about **Anroid SDK, Java, Firebase, Room**
+- 💬 Ask me about **Flutter, DART, Swift, Swift UI, Kotlin, Jetpack Compose, XML, GCP, AWS, Anroid SDK, Java, Firebase, Room, REST**
 
 - 📫 How to reach me **armjldtriner@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rl659D2peKB2f6-tyQ1NLG7580a9RLmv/view?usp=sharing](https://drive.google.com/file/d/1rl659D2peKB2f6-tyQ1NLG7580a9RLmv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
