@@ -65,3 +65,6 @@
 ---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreefelsayed&show_icons=true&locale=en&layout=compact" alt="shreefelsayed" /></p>
+
+<!-- ✅ Contribution Graph -->
+[![Abdulrhman Shreif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shreefelsayed&bg_color=ffffff&color=000000&line=00b300&point=007500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
